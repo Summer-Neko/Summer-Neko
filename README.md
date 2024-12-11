@@ -8,7 +8,7 @@
 
 ---
 
-<table>
+<table style="border: none; border-collapse: collapse; width: 100%;">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=Summer-Neko&show_icons=true&theme=transparent" 
