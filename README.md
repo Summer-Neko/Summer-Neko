@@ -8,11 +8,11 @@
 
 ---
 
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
+<div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=Summer-Neko&show_icons=true&theme=transparent" 
-       style="height: 87px; object-fit: contain;"/>
+       style="width: 55%; aspect-ratio: 2 / 1; object-fit: contain;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Summer-Neko&layout=compact&theme=transparent" 
-       style="height: 87px; object-fit: contain;"/>
+       style="width: 46%; aspect-ratio: 2 / 1; object-fit: contain;"/>
 </div>
 
 ---
