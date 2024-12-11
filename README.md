@@ -20,7 +20,7 @@
 
 ---
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Summer-Neko&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Summer-Neko&theme=dracula)]
 
 ---
 
