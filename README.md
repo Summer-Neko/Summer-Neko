@@ -7,19 +7,16 @@
 </div>
 
 ---
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 10px; margin-top: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Summer-Neko&show_icons=true&theme=transparent" 
+       alt="GitHub Stats" 
+       style="width: 55%; aspect-ratio: 2 / 1; object-fit: contain;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Summer-Neko&layout=compact&theme=transparent" 
+       alt="Top Languages" 
+       style="width: 42%; aspect-ratio: 2 / 1; object-fit: contain;"/>
+</div>
 
-<table style="border: none; border-collapse: collapse; width: 100%;">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Summer-Neko&show_icons=true&theme=transparent" 
-           style="width: 83%;" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Summer-Neko&layout=compact&theme=transparent" 
-           style="width: 100%;" />
-    </td>
-  </tr>
-</table>
+
 
 ---
 
