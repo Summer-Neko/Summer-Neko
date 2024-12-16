@@ -2,8 +2,8 @@
 
 ---
 <div style="display: flex; justify-content: center; gap: 4px; align-items: center;">
-  <img src="https://hoyocard.qhy04.com/gs/detail/rand/20906360.png"  style="width: 48%; border-radius: 3px;" alt="hoyo-card"/>
-  <img src="https://hoyocard.qhy04.com/sr/detail/rand/20906360.png" style="width: 48%; border-radius: 3px;" alt="hoyo-card"/>
+  <img src="https://hoyocard.qhy04.com/gs/rand/20906360.png"  style="width: 48%; border-radius: 3px;"/>
+  <img src="https://hoyocard.qhy04.com/sr/detail/rand/20906360.png" style="width: 48%; border-radius: 3px;"/>
 </div>
 
 ---
@@ -15,7 +15,6 @@
        alt="Top Languages" 
        style="width: 42%; aspect-ratio: 2 / 1; object-fit: contain;"/>
 </div>
-
 
 
 ---
