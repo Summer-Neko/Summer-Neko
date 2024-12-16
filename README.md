@@ -3,7 +3,7 @@
 ---
 <div style="display: flex; justify-content: center; gap: 4px; align-items: center;">
   <img src="https://hoyocard.qhy04.com/gs/rand/20906360.png"  style="width: 48%; border-radius: 3px;"/>
-  <img src="https://hoyocard.qhy04.com/sr/rand/20906360.png" style="width: 48%; border-radius: 3px;"/>
+  <img src="https://hoyocard.qhy04.com/sr/detail/rand/20906360.png" style="width: 48%; border-radius: 3px;"/>
 </div>
 
 ---
