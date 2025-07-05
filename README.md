@@ -17,9 +17,9 @@
 </div>
 
 
----
+<!-- --- -->
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Summer-Neko&theme=dracula)
+<!-- ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Summer-Neko&theme=dracula)  -->
 
 ---
 
