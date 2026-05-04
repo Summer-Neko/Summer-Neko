@@ -40,5 +40,5 @@
   </a>
   
   <br><br>
-  <img src="https://count.getloli.com/get/@Summer-Neko?theme=?theme=asoul" alt="Moe Counter" />
+  <img src="https://count.getloli.com/get/@Summer-Neko?theme=booru-lewd" alt="Moe Counter" />
 </div>
